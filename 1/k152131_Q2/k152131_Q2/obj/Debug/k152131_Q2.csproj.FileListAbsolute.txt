@@ -1,0 +1,7 @@
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q2\k152131_Q2\bin\Debug\k152131_Q2.pdb
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q2\k152131_Q2\obj\Debug\k152131_Q2.csproj.CoreCompileInputs.cache
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q2\k152131_Q2\obj\Debug\k152131_Q2.pdb
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q2\k152131_Q2\obj\Debug\k152131_Q2.csprojResolveAssemblyReference.cache
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q2\k152131_Q2\bin\Debug\k152131_Q2.dll.config
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q2\k152131_Q2\bin\Debug\k152131_Q2.dll
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q2\k152131_Q2\obj\Debug\k152131_Q2.dll

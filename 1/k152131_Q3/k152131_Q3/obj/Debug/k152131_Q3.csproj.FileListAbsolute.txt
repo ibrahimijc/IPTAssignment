@@ -1,0 +1,10 @@
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\bin\Debug\k152131_Q3.exe.config
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\bin\Debug\k152131_Q3.exe
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\bin\Debug\k152131_Q3.pdb
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\bin\Debug\k152131_Q2.pdb
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\bin\Debug\k152131_Q2.exe.config
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\obj\Debug\k152131_Q3.csprojResolveAssemblyReference.cache
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\obj\Debug\k152131_Q3.csproj.CoreCompileInputs.cache
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\obj\Debug\k152131_Q3.csproj.CopyComplete
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\obj\Debug\k152131_Q3.exe
+E:\IJC\8th\Information Processing Techniques\Assignment\1\k152131_Q3\k152131_Q3\obj\Debug\k152131_Q3.pdb
