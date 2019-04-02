@@ -1,0 +1,12 @@
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe.config
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.pdb
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\Newtonsoft.Json.dll
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\Newtonsoft.Json.pdb
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\Newtonsoft.Json.xml
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\obj\Debug\K152131_Q3.ProjectInstaller.resources
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\obj\Debug\K152131_Q3.csproj.GenerateResource.cache
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\obj\Debug\K152131_Q3.csproj.CoreCompileInputs.cache
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\obj\Debug\K152131_Q3.csproj.CopyComplete
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\obj\Debug\K152131_Q3.exe
+E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\obj\Debug\K152131_Q3.pdb

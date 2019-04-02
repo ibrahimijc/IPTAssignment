@@ -1,0 +1,175 @@
+﻿Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Creating EventLog source Service3 in log Application...
+Rolling back assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Restoring event log to previous state for source Service3.
+Uninstalling assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Removing EventLog source Service3.
+Service Service3 is being removed from the system...
+Service Service3 was successfully removed from the system.
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Uninstalling assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Removing EventLog source Service3.
+Service Service3 is being removed from the system...
+Service Service3 was successfully removed from the system.
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Uninstalling assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Removing EventLog source Service3.
+Service Service3 is being removed from the system...
+Service Service3 was successfully removed from the system.
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Uninstalling assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Removing EventLog source Service3.
+Service Service3 is being removed from the system...
+Service Service3 was successfully removed from the system.
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Uninstalling assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Removing EventLog source Service3.
+Service Service3 is being removed from the system...
+Service Service3 was successfully removed from the system.
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Uninstalling assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Removing EventLog source Service3.
+Service Service3 is being removed from the system...
+Service Service3 was successfully removed from the system.
+Attempt to stop service Service3.
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Uninstalling assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Removing EventLog source Service3.
+Service Service3 is being removed from the system...
+Service Service3 was successfully removed from the system.
+Attempt to stop service Service3.
+Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\2\K152131_Q3\K152131_Q3\bin\Debug\K152131_Q3.exe
