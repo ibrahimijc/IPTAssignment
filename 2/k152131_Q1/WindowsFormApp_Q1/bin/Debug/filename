@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patients>
+  <Student>
+    <FirstName>23</FirstName>
+    <LastName>23</LastName>
+  </Student>
+  <Patient name="sad" age="0" email="sad" gender="M">
+    <bpm>1</bpm>
+    <time>2:2:2</time>
+    <bpm>1</bpm>
+    <time>2:2:2</time>
+    <Confidence>0</Confidence>
+  </Patient>
+</Patients>

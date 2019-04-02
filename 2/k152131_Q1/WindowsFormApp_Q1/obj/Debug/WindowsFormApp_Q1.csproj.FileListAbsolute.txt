@@ -1,0 +1,11 @@
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\bin\Debug\WindowsFormApp_Q1.exe.config
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\bin\Debug\WindowsFormApp_Q1.exe
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\bin\Debug\WindowsFormApp_Q1.pdb
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.csprojResolveAssemblyReference.cache
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.Properties.Resources.resources
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.csproj.GenerateResource.cache
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.csproj.CoreCompileInputs.cache
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.exe
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.pdb
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.Start.resources
+C:\Users\IBRAHIM\source\repos\WindowsFormApp_Q1\WindowsFormApp_Q1\obj\Debug\WindowsFormApp_Q1.AddInformationForm.resources
