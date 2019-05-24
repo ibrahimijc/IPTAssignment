@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\IBRAHIM\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IBRAHIM\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.InstallLog
+   assemblypath = C:\Users\IBRAHIM\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.exe
+Installing service service4a...
+Service service4a has been successfully installed.
+Creating EventLog source service4a in log Application...
+Committing assembly 'C:\Users\IBRAHIM\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IBRAHIM\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.InstallLog
+   assemblypath = C:\Users\IBRAHIM\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.exe

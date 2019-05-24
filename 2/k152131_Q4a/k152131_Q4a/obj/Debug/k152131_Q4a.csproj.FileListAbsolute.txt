@@ -1,0 +1,12 @@
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\obj\Debug\k152131_Q4a.ProjectInstaller.resources
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\obj\Debug\k152131_Q4a.csproj.GenerateResource.cache
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\obj\Debug\k152131_Q4a.csproj.CoreCompileInputs.cache
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.exe.config
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.exe
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\k152131_Q4a.pdb
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\Newtonsoft.Json.dll
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\Newtonsoft.Json.pdb
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\bin\Debug\Newtonsoft.Json.xml
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\obj\Debug\k152131_Q4a.csproj.CopyComplete
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\obj\Debug\k152131_Q4a.exe
+c:\users\ibrahim\source\repos\k152131_Q4a\k152131_Q4a\obj\Debug\k152131_Q4a.pdb

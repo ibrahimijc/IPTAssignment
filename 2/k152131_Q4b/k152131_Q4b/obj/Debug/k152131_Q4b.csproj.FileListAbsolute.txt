@@ -1,0 +1,8 @@
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.exe.config
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.exe
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.pdb
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\obj\Debug\k152131_Q4b.ProjectInstaller.resources
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\obj\Debug\k152131_Q4b.csproj.GenerateResource.cache
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\obj\Debug\k152131_Q4b.csproj.CoreCompileInputs.cache
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\obj\Debug\k152131_Q4b.exe
+E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\obj\Debug\k152131_Q4b.pdb

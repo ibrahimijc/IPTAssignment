@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.exe
+Installing service Serviceb...
+Service Serviceb has been successfully installed.
+Creating EventLog source Serviceb in log Application...
+Committing assembly 'E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.InstallLog
+   assemblypath = E:\IJC\8th\InformationProcessingTechniques\Assignment\IPTAssignment\2\k152131_Q4b\k152131_Q4b\bin\Debug\k152131_Q4b.exe
